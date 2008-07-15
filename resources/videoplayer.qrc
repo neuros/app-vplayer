@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/backgrounds" >
+    <file>bg-playbackframe.png</file>
+    <file>bg-playstateframe.png</file>
+  </qresource>
+  <qresource prefix="/video" >
+    <file>ff.png</file>
+    <file>next.png</file>
+    <file>pause.png</file>
+    <file>play.png</file>
+    <file>previous.png</file>
+    <file>rw.png</file>
+    <file>stop.png</file>
+  </qresource>
+  <qresource prefix="/" >
+    <file>controlpad.png</file>
+    <file>controlpad0.png</file>
+    <file>controlpad1.png</file>
+  </qresource>
+</RCC>
